@@ -1,0 +1,68 @@
+.APP {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+.LogoutButton {
+  margin-top: 10px;
+}
+div {
+  display: flex;
+  width: 100%;
+}
+
+label {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  width: 100%;
+}
+.row {
+  display: flex;
+  width: 50%;
+}
+.row2 {
+  display: flex;
+  width: 70%;
+}
+.Write {
+  display: flex;
+  width: 80%;
+}
+.SendBox {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+  width: 100%;
+}
+.InBox {
+  display: flex;
+  flex-direction: column;
+}
+.mb-0ms-0me-0d-flexflex-row {
+  display: flex;
+  flex-direction: column;
+}
+input {
+  width: 100%;
+}
+.h-200 {
+  width: 100%;
+}
+.text-center {
+  width: 20%;
+}
+.textfile {
+  width: 40%;
+}
+.text {
+  width: 50%;
+}
+.loginbutton {
+  border-color: rgb(89, 89, 190);
+}
+.Registerbutton {
+  border-color: rgb(8, 125, 51);
+}
